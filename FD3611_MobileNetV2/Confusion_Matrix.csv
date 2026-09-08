@@ -1,0 +1,6 @@
+,Diabetic_Retinopathy,Media_Hazy,Myopic_Retinopathy,Normal,Optic_Disc_Disorder
+Diabetic_Retinopathy,29,0,1,4,0
+Media_Hazy,1,44,1,0,0
+Myopic_Retinopathy,3,1,25,0,0
+Normal,2,1,3,213,3
+Optic_Disc_Disorder,3,2,2,20,1
